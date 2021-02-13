@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+![](https://github.com/Prathamesh-Hash/Prathamesh-Hash/blob/main/banner.jpg)
 
 <h1 align="center"> Hello, I'm Prathamesh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
