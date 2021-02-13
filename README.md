@@ -1,4 +1,4 @@
-![]<img src="https://github.com/Prathamesh-Hash/Prathamesh-Hash/blob/main/banner.jpg" height="300" width="1500">
+<img src="https://github.com/Prathamesh-Hash/Prathamesh-Hash/blob/main/banner.jpg" height="200" width="1500">
 
 <h1 align="center"> Hello, I'm Prathamesh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
@@ -55,7 +55,7 @@
 </div>
 
 </div>
-![]<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 
 
 
