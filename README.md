@@ -29,8 +29,8 @@
 <img src="https://github.com/Prathamesh-Hash/Prathamesh-Hash/blob/main/jpa.png  " height="150" width="150">
 <br>
 <img src="https://github.com/Prathamesh-Hash/Prathamesh-Hash/blob/main/newsql.png " height="150" width="150">
-<img src="https://github.com/Prathamesh-Hash/Prathamesh-Hash/blob/main/apachetom.jpg" height="150" width="150">
-<img src="https://github.com/Prathamesh-Hash/Prathamesh-Hash/blob/main/postman.png" height="150" width="150">
+<img src="https://github.com/Prathamesh-Hash/Prathamesh-Hash/blob/main/support-apache.jpg" height="150" width="150">
+<img src="https://github.com/Prathamesh-Hash/Prathamesh-Hash/blob/main/images.png" height="150" width="150">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="150" width="150">
 
 <br>
