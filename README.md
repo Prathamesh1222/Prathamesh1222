@@ -22,7 +22,7 @@
 
 <div align="center">
   
-<img src="https://github.com/Prathamesh-Hash/Prathamesh-Hash/blob/main/javacircle1.jpg " height="150" width="150">
+<img src="https://github.com/Prathamesh-Hash/Prathamesh-Hash/blob/main/download.png " height="150" width="150">
 <img src="https://github.com/Prathamesh-Hash/Prathamesh-Hash/blob/main/newspring.png   " height="150" width="150">
 <img src="https://github.com/Prathamesh-Hash/Prathamesh-Hash/blob/main/boot.png  " height="150" width="150">
 <img src="https://github.com/Prathamesh-Hash/Prathamesh-Hash/blob/main/hibernate.png " height="150" width="150">
