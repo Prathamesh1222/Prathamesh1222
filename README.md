@@ -15,7 +15,6 @@
 - 👯 I’m looking to collaborate on Java Project.
 - 📫 How to reach me: You may follow me on 
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/prathamesh_skylar/)
-- ⚡ Fun fact: Jack of all trades , Master of None ! 
 <br />
 
 ## 👨‍💻 Languages and Tools
